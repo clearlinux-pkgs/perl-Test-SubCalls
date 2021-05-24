@@ -4,7 +4,7 @@
 #
 Name     : perl-Test-SubCalls
 Version  : 1.10
-Release  : 5
+Release  : 6
 URL      : https://cpan.metacpan.org/authors/id/E/ET/ETHER/Test-SubCalls-1.10.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/E/ET/ETHER/Test-SubCalls-1.10.tar.gz
 Summary  : 'Track the number of times subs are called'
@@ -101,4 +101,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.32.1/Test/SubCalls.pm
+/usr/lib/perl5/vendor_perl/5.34.0/Test/SubCalls.pm
