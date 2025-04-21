@@ -7,7 +7,7 @@
 #
 Name     : perl-Test-SubCalls
 Version  : 1.10
-Release  : 13
+Release  : 14
 URL      : https://cpan.metacpan.org/authors/id/E/ET/ETHER/Test-SubCalls-1.10.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/E/ET/ETHER/Test-SubCalls-1.10.tar.gz
 Summary  : 'Track the number of times subs are called'
